@@ -1,5 +1,5 @@
 server.port=8083
-spring.application.name= Registration-service
+spring.application.name= registration-service
 spring.cloud.compatibility-verifier.enabled=false
 
 
